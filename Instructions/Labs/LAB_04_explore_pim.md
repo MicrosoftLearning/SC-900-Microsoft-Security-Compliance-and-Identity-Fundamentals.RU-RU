@@ -2,12 +2,12 @@
 lab:
   title: 'Изучение управления удостоверениями в Azure AD с управлением привилегированными пользователями. '
   module: 'Module 2 Lesson 4: Describe the identity protection and governance capabilities of Azure AD: Describe Azure Identity Protection.'
-ms.openlocfilehash: 1bbe93105312be8b5a22c078d42def2a6daefc6b
-ms.sourcegitcommit: a341c2fc38e9b37dafb792d82e3c948f7ba4a099
+ms.openlocfilehash: a291567279c9ffd6ba9b47154390dc8c418b1527
+ms.sourcegitcommit: 59ed885dd424cb6d505bbe0cc0ab2adf52e03aef
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "137894243"
+ms.lasthandoff: 04/07/2022
+ms.locfileid: "141489239"
 ---
 # <a name="lab-explore-identity-governance-in-azure-ad-with-privileged-identity-management"></a>Практическое занятие. Изучение управления удостоверениями в Azure AD с управлением привилегированными пользователями.
 
@@ -50,9 +50,9 @@ ms.locfileid: "137894243"
 
 2. На панели навигации слева выберите **Управление удостоверениями**.
 
-3. Убедитесь, что в главном окне подчеркнуто **Приступая к работе**, затем выберите **Управление назначением ролей** в правой части экрана.  Кроме того, на панели навигации слева в разделе «Управление привилегированными пользователями» выберите **Роли Azure AD**.
+3. На панели навигации слева в разделе «Управление привилегированными пользователями» выберите **Роли Azure AD**.
 
-4. Откроется окно быстрого начала работы с управлением привилегированными пользователями.  Выберите **Управление доступом**.
+4. Откроется окно быстрого начала работы с управлением привилегированными пользователями.  Щелкните **Управление**.
 
 5. Откроется страница «Роли Contoso».  На панели поиска в верхней части страницы введите **пользователь**.  В результатах поиска выберите **Администратор пользователей**.
 
@@ -85,7 +85,7 @@ ms.locfileid: "137894243"
 19. Выйдите из системы, нажав значок пользователя рядом с адресом эл. почты в правом верхнем углу экрана и выбрав **Выход**. Затем закройте все окна браузера.
 
 
-#### <a name="task-3-task-3--in-this-task-you-as-diego-siciliani-will-sign-in-to-the-azure-portal-to-access-the-privileged-identity-management-capability-of-azure-active-directory-to-activate-the-your-assignment-as-user-administrator--once-activated-you-will-make-some-configuration-changes-to-an-existing-user-note-for-this-task-you-will-need-access-to-a-mobile-device-to-which-you-have-immediate-access-and-can-receive-text-messages"></a>Задача 3. Задача 3.  В рамках этой задачи вы от имени Diego Siciliani выполните вход на портал Azure чтобы получить доступ к возможностям управления привилегированными пользователями в Azure Active Directory для активации вашего назначения в качестве администратора пользователей.  После активации необходимо внести некоторые изменения конфигурации существующего пользователя. Примечание. В рамках этой задачи вам необходим доступ к мобильному устройству, на котором вы сразу же сможете принять текстовые сообщения.
+#### <a name="task-3-in-this-task-you-as-diego-siciliani-will-sign-in-to-the-azure-portal-to-access-the-privileged-identity-management-capability-of-azure-active-directory-to-activate-the-your-assignment-as-user-administrator--once-activated-you-will-make-some-configuration-changes-to-an-existing-user-note-for-this-task-you-will-need-access-to-a-mobile-device-to-which-you-have-immediate-access-and-can-receive-text-messages"></a>Задача 3. В рамках этой задачи вы от имени Diego Siciliani выполните вход на портал Azure чтобы получить доступ к возможностям управления привилегированными пользователями в Azure Active Directory для активации вашего назначения в качестве администратора пользователей.  После активации необходимо внести некоторые изменения конфигурации существующего пользователя. Примечание. В рамках этой задачи вам необходим доступ к мобильному устройству, на котором вы сразу же сможете принять текстовые сообщения.
 
 1. Откройте Microsoft Edge.  В адресной строке браузера введите **portal.azure.com**.
 
