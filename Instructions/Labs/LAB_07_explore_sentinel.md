@@ -2,21 +2,24 @@
 lab:
   title: Обзор Microsoft Sentinel
   module: 'Module 3 Lesson 3: Describe the capabilities of Microsoft security solutions: Describe security capabilities of Microsoft Sentinel'
-ms.openlocfilehash: 28c73a721cd595b41e63a235498b00552acdac82
-ms.sourcegitcommit: c14538b208890797642cfe5c35abf6bea45364bf
+ms.openlocfilehash: 857d7f5ad5e0a9136d298c32cd47063a83e454e7
+ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "142614342"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144557162"
 ---
-# <a name="lab-explore-microsoft-sentinel"></a>Практическое занятие. Обзор Microsoft Sentinel 
+# <a name="lab-explore-microsoft-sentinel"></a>Практическое занятие. Обзор Microsoft Sentinel
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
+
 В рамках этого практического занятия вы рассмотрите процесс создания экземпляра Microsoft Azure Sentinel.  Вы также настроите разрешения, чтобы обеспечить доступ к ресурсам, которые будут развернуты для поддержки Microsoft Azure Sentinel.  После выполнения этой базовой настройки вы выполните действия по подключению Microsoft Sentinel к источникам данных, настройке книги, а также кратко изучите некоторые ключевые возможности Microsoft Sentinel.  
 
 **Примерное время**: 45–60 мин
 
-#### <a name="task-1--create-an-microsoft-sentinel-instance"></a>Задача 1.  Создание рабочей области Microsoft Azure Sentinel
+### <a name="task-1"></a>Задача 1
+
+Создание рабочей области Microsoft Azure Sentinel
 
 1. Откройте вкладку браузера **Главная — Microsoft Azure**.  Если ранее вы закрыли эту вкладку, откройте страницу браузера и в адресной строке введите portal.azure.com, затем выполните вход.
 
@@ -43,11 +46,13 @@ ms.locfileid: "142614342"
 
 1. Оставьте эту страницу открытой, так как она будет использоваться в следующей задаче.
 
-#### <a name="task-2--with-the-microsoft-sentinel-instance-created-you-will-want-to-make-sure-that-you-have-the-necessary-access-to-the-resources-that-get-deployed-to-support-microsoft-sentinel"></a>Задача 2.  При создании экземпляра Microsoft Sentinel необходимо убедиться, что у вас есть необходимый доступ к ресурсам, которые развертываются для поддержки Microsoft Sentinel.  
+### <a name="task-2"></a>Задача 2
+
+При создании экземпляра Microsoft Sentinel необходимо убедиться, что у вас есть необходимый доступ к ресурсам, которые развертываются для поддержки Microsoft Sentinel.
 
 1. В поле поиска, которое расположено на синей верхней панели рядом с надписью Microsoft Azure, введите **группы ресурсов**, затем выберите **Группы ресурсов** в результатах поиска. Назначение роли на уровне группы ресурсов обеспечит применение этой роли ко всем ресурсам, развернутым для поддержки Microsoft Sentinel.
 
-1. На странице групп ресурсов выберите группу ресурсов, созданную с помощью Microsoft Sentinel, с именем **SC900-Sentinel-RG**. 
+1. На странице групп ресурсов выберите группу ресурсов, созданную с помощью Microsoft Sentinel, с именем **SC900-Sentinel-RG**.
 
 1. На странице SC900-Sentinel-RG выберите **Управление доступом (IAM)** на панели навигации слева.
 
@@ -55,14 +60,16 @@ ms.locfileid: "142614342"
 
     1. На странице управления доступом выберите **+Добавить**, затем выберите **Добавить назначение ролей**.
 
-    1. Откроется окно «Добавить назначение ролей».  В поле поиска роли введите **Microsoft Sentinel** для просмотра 4 ролей, связанных с Microsoft Sentinel. 
+    1. Откроется окно «Добавить назначение ролей».  В поле поиска роли введите **Microsoft Sentinel** для просмотра 4 ролей, связанных с Microsoft Sentinel.
     1. Для любой из указанных ролей выберите **Просмотреть**, чтобы просмотреть сведения о ней.  Рекомендуется назначить наименьшую привилегию, необходимую для этой роли.  
 
     1. Закройте это окно, выбрав **X** в правом верхнем углу окна.
 
 1. На странице управления доступом закройте это окно, выбрав **X** в правом верхнем углу окна.
 
-#### <a name="task-3--in-this-task-you-will-walk-through-the-process-of-connecting-microsoft-sentinel-to-your-data-source-to-begin-to-collect-data"></a>Задача 3.  В рамках этой задачи вы просмотрите процесс подключения Microsoft Sentinel к вашему источнику данных для запуска сбора данных.
+### <a name="task-3"></a>Задача 3
+
+В рамках этой задачи вы просмотрите процесс подключения Microsoft Sentinel к вашему источнику данных для запуска сбора данных.
 
 1. В поле поиска, которое расположено на синей верхней панели рядом с надписью Microsoft Azure, введите **Microsoft Sentinel**, а затем выберите **Microsoft Sentinel** в результатах поиска.
 
@@ -84,7 +91,9 @@ ms.locfileid: "142614342"
 
 1. Оставьте эту страницу открытой, так как она будет использоваться в следующей задаче.
 
-#### <a name="task-4--in-this-task-you-will-walk-through-the-process-of-setting-up-a-workbook-for-office-365-to-visualize-and-monitor-your-data"></a>Задача 4.  В этой задаче описан процесс настройки книги для Office 365 для визуализации и мониторинга данных.
+### <a name="task-4"></a>Задача 4.
+
+В этой задаче описан процесс настройки книги для Office 365 для визуализации и мониторинга данных.
 
 1. На панели навигации слева выберите **Книги**.
 
@@ -96,7 +105,9 @@ ms.locfileid: "142614342"
 
 1. В левом верхнем углу страницы "Книги" выберите **Microsoft Sentinel** над надписью "Книги". Вы вернетесь на страницу обзора.
 
-#### <a name="task-5--in-this-task-you-will-walk-through-some-of-the-options-available-in-sentinel"></a>Задача 5.  В этой задаче описаны некоторые варианты, доступные в Sentinel.
+### <a name="task-5"></a>Задача 5.
+
+В этой задаче описаны некоторые варианты, доступные в Sentinel.
 
 1. На панели навигации слева выберите **Охота**.  На выбранной вкладке **Запросы** (подчеркнута), выберите любой запрос из списка.  После выбора запроса обратите внимание на сведения, предоставленные об этом запросе, включая код запроса, а также вариант для выполнения запроса и просмотра результатов.  Не выбирайте ничего.
 
@@ -114,7 +125,9 @@ ms.locfileid: "142614342"
 
 1. В левом верхнем углу окна под синей панелью выберите **Главная**, чтобы вернуться на домашнюю страницу портала Azure.
 
-#### <a name="task-6-microsoft-sentinel-is-billed-based-on-the-volume-of-data-ingested-for-analysis-in-microsoft-sentinel-although-the-amount-of-data-ingested-as-a-result-of-this-lab-is-minimal-it-is-recommended-that-you-delete-the-microsoft-sentinel-resource-group-when-you-are-done-exploring-the-capabilities-of-microsoft-sentinel"></a>Задача 6. Счета за Microsoft Sentinel выставляются на основе объема принятых на анализ в Microsoft Sentinel данных. Хотя объем данных, принятых на анализ в рамках этой лаборатории, является минимальным, рекомендуется удалить группу ресурсов Microsoft Sentinel по завершении изучения функциональных возможностей Microsoft Sentinel.
+### <a name="task-6"></a>Задача 6.
+
+Счета за Microsoft Sentinel выставляются на основе объема принятых на анализ в Microsoft Sentinel данных. Хотя объем данных, принятых на анализ в рамках этой лаборатории, является минимальным, рекомендуется удалить группу ресурсов Microsoft Sentinel по завершении изучения функциональных возможностей Microsoft Sentinel.
 
 1. В левом верхнем углу страницы Microsoft Sentinel над надписью Microsoft Sentinel выберите **Все службы**.
 
@@ -124,8 +137,8 @@ ms.locfileid: "142614342"
 
 4. Вверху по центру страницы выберите **Удалить группу ресурсов**.  Ознакомьтесь с предупреждением.  Введите имя группы ресурсов **SC900-ResourceGroup**, затем выберите **Удалить** в нижней части страницы.  На удаление группы ресурсов уйдет несколько минут.
 
-5. После проверки удаления группы ресурсов закройте страницу браузера. 
+5. После проверки удаления группы ресурсов закройте страницу браузера.
 
-#### <a name="review"></a>Просмотр
+### <a name="review"></a>Просмотр
 
 В этой демонстрации вы выполнили инструкции по подключению Microsoft Sentinel к источникам данных и настройке книги, а также изучили несколько вариантов, доступных в Microsoft Sentinel.
