@@ -2,12 +2,12 @@
 Demo:
   title: Изучение портала соответствия требованиям Microsoft Purview и Диспетчера соответствия требованиям
   module: 'Module 4 Lesson 2: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft Purview'
-ms.openlocfilehash: 7c0b3e5a3153e48ddb3a7e7cca991c9df6a89bdf
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 3ba29f7d6969a64d594f93c012304bb9e3237582
+ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557246"
+ms.lasthandoff: 06/22/2022
+ms.locfileid: "146542619"
 ---
 # <a name="demo-explore-the-microsoft-purview-compliance-portal--compliance-manager"></a>Ролик. Изучение портала соответствия требованиям Microsoft Purview и Диспетчера соответствия требованиям
 

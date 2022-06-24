@@ -2,12 +2,12 @@
 lab:
   title: Изучение рабочего процесса eDiscovery стандарт
   module: 'Module 4 Lesson 5: Describe the capabilities of Microsoft compliance solutions: Describe the eDiscovery and audit capabilities of Microsoft Purview'
-ms.openlocfilehash: 60abb7856a80be94c8f1bd755f313a0d12616671
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: da37016799bb1343013c1ace901137646c0c856b
+ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557606"
+ms.lasthandoff: 06/22/2022
+ms.locfileid: "146542631"
 ---
 # <a name="lab-explore-the-ediscovery-standard-workflow"></a>Практическое занятие. Изучение рабочего процесса eDiscovery стандарт
 
@@ -115,7 +115,7 @@ ms.locfileid: "144557606"
 
 1. В нижней части страницы выберите **Действия**.  Обратите внимание на доступные параметры, затем выберите **Экспортировать результаты**.
 
-    1. В окне «Экспорт результатов» оставьте значения по умолчанию и выберите **Экспорт** в нижней части страницы. Вы автоматически вернетесь в окно «Тестовое удержание — Поиск продаж». В нижней части страницы выберите **закрыть**.
+    1. В окне «Экспорт результатов» оставьте значения по умолчанию и выберите **Экспорт** в нижней части страницы. Вы автоматически вернетесь в окно «Тестовое удержание — Поиск продаж». В нижней части страницы выберите **Закрыть**.
 
     1. На странице «Тестовый случай SC900» выберите **Экспорт** в верхней части страницы.
     1. Выберите **Тестовое удержание — Поиск продаж_Экспорт**
