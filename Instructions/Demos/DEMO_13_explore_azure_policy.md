@@ -2,12 +2,12 @@
 Demo:
   title: Политика Azure
   module: 'Module 4 Lesson 6: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
-ms.openlocfilehash: d336b34711cbfd458d25cf7692bea27ad34f86ab
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 1916af2407c9f493b0c305828eb75d9810901859
+ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557138"
+ms.lasthandoff: 06/22/2022
+ms.locfileid: "146542679"
 ---
 # <a name="demo-azure-policy"></a>Ролик. Политика Azure
 
@@ -19,7 +19,7 @@ ms.locfileid: "144557138"
 
 Создание политики, требующей наличие тега для группы ресурсов (приведены действия по созданию политики на основе шаблона)
 
-1. Откройте Microsoft Edge. В адресной строке введите **portal.microsoft.com**.  Уже должен быть выполнен вход в систему, в противном случае выполните вход под своими учетными данными администратора.
+1. Откройте Microsoft Edge. В адресной строке введите **portal.azure.com**.  Уже должен быть выполнен вход в систему, в противном случае выполните вход под своими учетными данными администратора.
 
 1. В поле поиска, которое расположено на синей верхней панели рядом с надписью Microsoft Azure, введите **политика**, затем выберите **Политика** в результатах поиска.
 
