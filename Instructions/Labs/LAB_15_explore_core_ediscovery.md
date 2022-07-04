@@ -2,12 +2,12 @@
 lab:
   title: Изучение рабочего процесса eDiscovery стандарт
   module: 'Module 4 Lesson 5: Describe the capabilities of Microsoft compliance solutions: Describe the eDiscovery and audit capabilities of Microsoft Purview'
-ms.openlocfilehash: da37016799bb1343013c1ace901137646c0c856b
-ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
+ms.openlocfilehash: 6fd36be7fb7844b59648f8b2470057eccad9b832
+ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2022
-ms.locfileid: "146542631"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146649973"
 ---
 # <a name="lab-explore-the-ediscovery-standard-workflow"></a>Практическое занятие. Изучение рабочего процесса eDiscovery стандарт
 
@@ -126,6 +126,8 @@ ms.locfileid: "146542631"
     1. Во втором поле выберите расположение, где следует сохранить файл экспорта, затем выберите **Начать**.  По завершении загрузки выберите **Закрыть** и закройте вкладку браузера.
     1. Вы вернетесь в окно «Тестовое удержание — Поиск продаж_Экспорт».  Выберите **Закрыть**.
     1. Проверьте расположение загрузки, чтобы убедиться, что она была успешно выполнена.
+
+1. Закройте все открытые вкладки браузера.
 
 ### <a name="review"></a>Просмотр
 

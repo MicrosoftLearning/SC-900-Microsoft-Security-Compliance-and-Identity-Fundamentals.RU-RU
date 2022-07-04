@@ -2,12 +2,12 @@
 lab:
   title: Ознакомиться с порталом Azure
   module: 'Module 4 Lesson 6: Describe the capabilities of Microsoft compliance solutions: Describe Azure Policy'
-ms.openlocfilehash: 0a2ead44f5dc74a7684b8d78ea34c85767f8af92
-ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
+ms.openlocfilehash: f314612acb21c226e350ce9f6ab026cee2551378
+ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2022
-ms.locfileid: "146542595"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146741919"
 ---
 # <a name="lab-explore-azure-policy"></a>Практическое занятие. Ознакомиться с порталом Azure
 
@@ -125,6 +125,8 @@ ms.locfileid: "146542595"
     1. Ниже, рядом с надписью «Службы Azure», выберите политику Azure.
     1. В центре страницы виден список назначений политик/инициатив Azure.  Выберите многоточие для назначения политики «Требовать тег на группах ресурсов», затем выберите «Удалить назначение».
     1. Появится запрос на подтверждение удаления назначения.  Нажмите кнопку Да.
+
+1. Закройте все открытые вкладки браузера.
 
 ### <a name="review"></a>Просмотр
 

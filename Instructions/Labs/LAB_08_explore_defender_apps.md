@@ -2,12 +2,12 @@
 lab:
   title: 'Обзор Microsoft Defender для облачных приложений '
   module: 'Module 3 Lesson 4: Describe the capabilities of Microsoft security solutions: Describe threat protection with Microsoft 365 Defender'
-ms.openlocfilehash: cdd0953cafd267114577b53eb7470cd65a4c2bc5
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: c6b9e816596c74199123b21a9fcb07a5d33a725c
+ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557581"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146650069"
 ---
 # <a name="lab-explore-microsoft-defender-for-cloud-apps"></a>Практическое занятие. Обзор Microsoft Defender для облачных приложений
 
@@ -79,7 +79,7 @@ ms.locfileid: "144557581"
 
 1. На панели навигации слева выберите **Оповещения**.  Если указаны какие-либо оповещения, выберите элемент в списке оповещений. Просмотрите предоставленные сведения.  В правой верхней части окна выберите **Закрыть оповещение**, чтобы просмотреть параметры по закрытию оповещения.  
 
-1. Закройте окно браузера.
+1. Закройте все открытые вкладки браузера.
 
 ### <a name="review"></a>Просмотр
 

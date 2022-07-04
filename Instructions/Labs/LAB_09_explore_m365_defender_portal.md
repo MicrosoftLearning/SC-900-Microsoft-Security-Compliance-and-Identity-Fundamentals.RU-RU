@@ -2,12 +2,12 @@
 lab:
   title: Изучение портала Microsoft 365 Defender
   module: 'Module 3 Lesson 4: Describe the capabilities of Microsoft security solutions: Describe threat protection with Microsoft 365 Defender'
-ms.openlocfilehash: dafab309af48617209f70b79ad5843d23eecd448
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 5accd8bc5c37450e40dfb73b5f2cf0bb8cb24525
+ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557150"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146649985"
 ---
 # <a name="lab-explore-the-microsoft-365-defender-portal"></a>Практическое занятие. Изучение портала Microsoft 365 Defender
 
@@ -65,7 +65,7 @@ ms.locfileid: "144557150"
 
 1. В верхней части страницы выберите **Метрики и тренды**.  Обратите внимание на доступную информацию.  В правом верхнем углу страницы выберите **значок календаря**.  Можно сузить представление до определенного диапазона дат.  Выбор **знака фильтра** позволит отфильтровать представление по удостоверению, устройства и приложениям.  Закройте окно и выберите **Главная** на панели навигации слева, чтобы вернуться на главную страницу Microsoft 365 Defender.
 
-1. Закройте окно браузера.
+1. Закройте все открытые вкладки браузера.
 
 ### <a name="review"></a>Просмотр
 

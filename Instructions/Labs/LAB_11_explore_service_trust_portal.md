@@ -2,12 +2,12 @@
 lab:
   title: Знакомство с Service Trust Portal
   module: 'Module 4 Lesson 1: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft'
-ms.openlocfilehash: 45086cf1301ce1feb8983f22f05a6cc07e229c4c
-ms.sourcegitcommit: 3fc607e4e989a09272e21c41f83f15757b243a8f
+ms.openlocfilehash: e760110f587b385e4e16f6272443a35a65471774
+ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "146381232"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146649949"
 ---
 # <a name="lab-explore-the-service-trust-portal"></a>Практическое занятие. Знакомство с Service Trust Portal
 
@@ -55,7 +55,7 @@ ms.locfileid: "146381232"
 
 1. Вы увидите сведения о наших (корпорации Майкрософт) обязательствах перед вами.  В этом разделе щелкните **Подробнее о конфиденциальности в Майкрософт**.  Прокрутите страницу и перейдите по различным ссылкам, чтобы узнать больше о конфиденциальности в Майкрософт.
 
-1. Закройте окна браузера, чтобы закрыть Service Trust Portal и Центр управления безопасностью.
+1. Закройте все открытые вкладки браузера.
 
 ### <a name="review"></a>Просмотр
 

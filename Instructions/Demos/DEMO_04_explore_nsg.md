@@ -2,12 +2,12 @@
 Demo:
   title: Группы безопасности сетей Azure (NSGs)
   module: 'Module 3 Lesson 1: Describe the capabilities of Microsoft security solutions: Describe basic security capabilities in Azure.'
-ms.openlocfilehash: dc653f2a9e6ee450b5693ad7bfbfe2208d5a7ea3
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: a136022cd3458d513011b10c408827d33fbc8caa
+ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557533"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "146741859"
 ---
 # <a name="demo-azure-network-security-groups-nsgs"></a>Ролик. Группы безопасности сетей Azure (NSGs)
 
@@ -152,9 +152,9 @@ ms.locfileid: "144557533"
 
 1. Вернитесь на главную страницу портала Azure, выбрав **Microsoft Azure** на синей панели в верхней части страницы.
 
-### <a name="tear-down"></a>Удаление
+### <a name="post-course-delivery-tear-down"></a>Удаление курса после его завершения.
 
-**ВАЖНО!** В рамках этой задачи вы удалите группу ресурсов и все содержащиеся в ней ресурсы.   Это важно во избежание дополнительных затрат.
+Виртуальная машина является оплачиваемым ресурсом, и хотя стоимость запуска виртуальных машин в этой демонстрации является мизерной, рекомендуется удалить группу ресурсов, содержащую виртуальную машину и связанные ресурсы, по завершении курса.
 
 1. Откройте вкладку «SC900-WinVM – Microsoft Azure» в вашем браузере.
 
