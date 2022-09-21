@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: Microsoft Sentinel
-  module: 'Module 3 Lesson 3: Describe the capabilities of Microsoft security solutions: Describe security capabilities of Microsoft Sentinel'
-ms.openlocfilehash: 74c3f339580c0eed60eedfe1f19871fa115951fe
-ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
+ms.openlocfilehash: 8d58cd38338d81136cf0b9b474137354269507e6
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146649997"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892393"
 ---
+<a name="---"></a><!---
+---
+Демонстрация. Заголовок: "Microsoft Sentinel" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 3. Описание возможностей обеспечения безопасности Microsoft Sentinel; Урок 3. Описание принципов встроенного управления угрозами в Microsoft Sentinel"
+---
+--->
+
 # <a name="demo-microsoft-sentinel"></a>Ролик. Microsoft Sentinel
+
+Эта демонстрация выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей решений безопасности Майкрософт
+- Модуль. Описание возможностей обеспечения безопасности Microsoft Sentinel
+- Урок. Описание принципов встроенного управления угрозами в Microsoft Sentinel
 
 ## <a name="demo-scenario"></a>Сценарий демонстрации
 

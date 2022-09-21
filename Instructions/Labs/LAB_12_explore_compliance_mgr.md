@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Изучение портала соответствия требованиям Microsoft Purview и Диспетчера соответствия требованиям
-  module: 'Module 4 Lesson 2: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft Purview'
-ms.openlocfilehash: 4f0c9c57619e1dc8c44ce86b97e4ac9a5488e189
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: 8d3268c28c1dc2335f0554caf801abe11b6ae0d2
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741835"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892381"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Изучение портала соответствия требованиям Microsoft Purview и Диспетчера соответствия требованиям" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей соответствия требованиям Майкрософт; Модуль 2. Сведения о возможностях управления соответствием требованиям в Microsoft Purview; Урок 2. Описание портала соответствия требованиям Microsoft Purview"
+---
+--->
+
 # <a name="lab-explore-the-microsoft-purview-compliance-portal--compliance-manager"></a>Практическое занятие. Изучение портала соответствия требованиям Microsoft Purview и Диспетчера соответствия требованиям
+
+Эта демонстрация выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей соответствия требованиям Майкрософт
+- Модуль. Сведения о возможностях управления соответствием требованиям в Microsoft Purview
+- Урок. Описание портала соответствия требованиям Microsoft Purview
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 

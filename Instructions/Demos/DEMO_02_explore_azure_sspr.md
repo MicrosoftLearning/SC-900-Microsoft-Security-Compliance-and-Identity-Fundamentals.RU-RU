@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: Самостоятельный сброс пароля в Azure Active Directory
-  module: 'Module 2 Lesson 2: Describe the capabilities of Microsoft Identity and access management solutions: Describe the different authentication methods of Azure AD'
-ms.openlocfilehash: 819439157f86ba4a28255cf876e239f3960df8f4
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 56e48510b5cca7dc77cc8b8f658e1ac50e44c7b8
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557222"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892141"
 ---
-# <a name="demo-azure-active-directory-self-service-password-reset-sspr"></a>Ролик. Самостоятельный сброс пароля в Azure Active Directory (SSPR)
+<a name="---"></a><!---
+---
+Демонстрация. Заголовок: "Самостоятельный сброс пароля (SSPR)" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra; Модуль 2. Описание возможностей проверки подлинности Azure AD; Урок 4. Описание самостоятельного сброса пароля в Azure AD"
+---
+--->
+
+# <a name="demo-azure-ad-self-service-password-reset-sspr"></a>Демонстрация. Самостоятельный сброса пароля (SSPR) Azure AD
+
+Эта демонстрация выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra
+- Модуль. Описание возможностей проверки подлинности Azure AD
+- Урок. Описание самостоятельного сброса пароля в Azure AD
 
 ## <a name="demo-scenario"></a>Сценарий демонстрации
 

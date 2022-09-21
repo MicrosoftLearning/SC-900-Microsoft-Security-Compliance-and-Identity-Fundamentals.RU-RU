@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Изучение меток конфиденциальности в Microsoft Purview
-  module: 'Module 4 Lesson 3: Describe the capabilities of Microsoft compliance solutions: Describe information protection and data lifecycle management of Microsoft Purview'
-ms.openlocfilehash: 65cf71c24e66e5c94fb27a1479693338a3cd7091
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: 1bae467c426cba5deb30035c3679409b384637e0
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741847"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892656"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Изучение меток конфиденциальности в Microsoft Purview" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей соответствия требованиям Майкрософт; Модуль 3. Описание решения для защиты информации и управления жизненным циклом данных в Microsoft Purview; Урок 4. Описание меток конфиденциальности"
+---
+--->
+
 # <a name="lab-explore-sensitivity-labels-in-microsoft-purview"></a>Практическое занятие. Изучение меток конфиденциальности в Microsoft Purview
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей соответствия требованиям Майкрософт
+- Модуль. Описание решения для защиты информации и управления жизненным циклом данных в Microsoft Purview
+- Урок. Описание меток конфиденциальности
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 

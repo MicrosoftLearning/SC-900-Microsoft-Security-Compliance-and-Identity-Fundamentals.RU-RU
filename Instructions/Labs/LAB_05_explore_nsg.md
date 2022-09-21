@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Изучение групп безопасности сетей Azure (NSGs)
-  module: 'Module 3 Lesson 1: Describe the capabilities of Microsoft security solutions: Describe basic security capabilities in Azure.'
-ms.openlocfilehash: 47f71fdf1587a240803bb508a902ce098253793d
-ms.sourcegitcommit: 07d6d5b9df44c747453e21a65bca524afbaf85ae
+ms.openlocfilehash: d2377516343cb85c279c1a2d6347c59f573d73c7
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2022
-ms.locfileid: "147695297"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892201"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Изучение групп безопасности сети Azure (NSG)" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 1. Описание основных возможностей обеспечения безопасности в Azure; Урок 6. Описание групп безопасности сети Azure"
+---
+--->
+
 # <a name="lab-explore-azure-network-security-groups-nsgs"></a>Практическое занятие. Изучение групп безопасности сетей Azure (NSGs)
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей решений безопасности Майкрософт
+- Модуль. Описание основных возможностей обеспечения безопасности в Azure
+- Урок. Описание групп безопасности сети Azure
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 

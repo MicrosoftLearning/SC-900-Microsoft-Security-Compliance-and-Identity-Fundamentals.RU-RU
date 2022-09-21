@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Изучение рабочего процесса eDiscovery стандарт
-  module: 'Module 4 Lesson 5: Describe the capabilities of Microsoft compliance solutions: Describe the eDiscovery and audit capabilities of Microsoft Purview'
-ms.openlocfilehash: 6fd36be7fb7844b59648f8b2470057eccad9b832
-ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
+ms.openlocfilehash: 430bb5ab95d4abaa73eb4aa02372b21fdbb768df
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146649973"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892668"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Изучение рабочего процесса eDiscovery стандарт "Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей соответствия требованиям Майкрософт; Модуль 5. Сведения о возможностях обнаружения электронных данных и аудита в Microsoft Purview; Урок 2. Описание решений обнаружения электронных данных в Microsoft 365"
+---
+--->
+
 # <a name="lab-explore-the-ediscovery-standard-workflow"></a>Практическое занятие. Изучение рабочего процесса eDiscovery стандарт
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей соответствия требованиям Майкрософт
+- Модуль. Сведения о возможностях обнаружения электронных данных и аудита в Microsoft Purview
+- Урок. Описание решений обнаружения электронных данных в Microsoft 365
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 

@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: Группы безопасности сетей Azure (NSGs)
-  module: 'Module 3 Lesson 1: Describe the capabilities of Microsoft security solutions: Describe basic security capabilities in Azure.'
-ms.openlocfilehash: 34a08ed5a6edd845087e4ed4b5d94d4f06bc8f89
-ms.sourcegitcommit: 07d6d5b9df44c747453e21a65bca524afbaf85ae
+ms.openlocfilehash: ce07082f318bbb7b96e3eac0d8f549795bdf488d
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/27/2022
-ms.locfileid: "147695309"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892440"
 ---
+<a name="---"></a><!---
+---
+Демонстрация. Заголовок: "Группы безопасности сети Azure (NSG)" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 1. Описание основных возможностей обеспечения безопасности в Azure; Урок 6. Описание групп безопасности сети Azure"
+---
+--->
+
 # <a name="demo-azure-network-security-groups-nsgs"></a>Ролик. Группы безопасности сетей Azure (NSGs)
+
+Эта демонстрация выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей решений безопасности Майкрософт
+- Модуль. Описание основных возможностей обеспечения безопасности в Azure
+- Урок. Описание групп безопасности сети Azure
 
 ## <a name="demo-scenario"></a>Сценарий демонстрации
 

@@ -1,15 +1,22 @@
 ---
-Demo:
-  title: Service Trust Portal
-  module: 'Module 4 Lesson 1: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft'
-ms.openlocfilehash: 1921bf877f96a8c4a3fae0b3966977bbc38588a5
-ms.sourcegitcommit: 3fc607e4e989a09272e21c41f83f15757b243a8f
+ms.openlocfilehash: 38537f333f690a8526c5a62de40ca86ab9335b48
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "146381244"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892453"
 ---
+<a name="---"></a><!---
+---
+Демонстрация. Заголовок: "Знакомство с Service Trust Portal" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей управления соответствием требованиям Майкрософт; Модуль 1. Описание возможностей управления соответствием требованиям Майкрософт; Урок 2. Знакомство с порталом Service Trust Portal"
+---
+--->
+
 # <a name="demo-service-trust-portal"></a>Ролик. Service Trust Portal
+
+Эта демонстрация выполняется на основе следующего содержимого Learn:
+
+Схема обучения. Описание возможностей соответствия требованиям Майкрософт Модуль. Описание возможностей управления соответствием требованиям Майкрософт Урок. Знакомство с порталом Service Trust Portal
 
 ## <a name="demo-scenario"></a>Сценарий демонстрации
 

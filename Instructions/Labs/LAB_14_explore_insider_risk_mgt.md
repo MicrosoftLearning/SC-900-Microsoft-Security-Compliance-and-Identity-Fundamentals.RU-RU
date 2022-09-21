@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Изучение управления внутренними рисками в Microsoft Purview
-  module: 'Module 4 Lesson 4: Describe the capabilities of Microsoft compliance solutions: Describe insider risk capabilities in Microsoft Purview'
-ms.openlocfilehash: b284151be19a0f9add77ef4c015520c7e4a7f363
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: 553860b67fc7cc2b181e874e4c57fb4bc972822b
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741883"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892705"
 ---
+<a name="---"></a><!--->
+---
+Практическое занятие. Заголовок: "Изучение управления внутренними рисками в Microsoft Purview" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей соответствия требованиям Майкрософт; Модуль 4. Описание возможностей внутренних рисков в Microsoft Purview; Урок 2. Описание управления внутренними рисками
+---
+--->
+
 # <a name="lab-explore-insider-risk-management-in-microsoft-purview"></a>Практическое занятие. Изучение управления внутренними рисками в Microsoft Purview
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей соответствия требованиям Майкрософт
+- Модуль. Описание возможностей управления внутренними рисками в Microsoft Purview
+- Урок. Описание управления внутренними рисками
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 

@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Обзор Microsoft Sentinel
-  module: 'Module 3 Lesson 3: Describe the capabilities of Microsoft security solutions: Describe security capabilities of Microsoft Sentinel'
-ms.openlocfilehash: dfa993671d905ed8bad138376c8cd71b1aa23d85
-ms.sourcegitcommit: b8b861a8c884a56f094213e47a59be48ba898ca1
+ms.openlocfilehash: 656e8003ac2a835d263b98cc25871f186ff2a0c8
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146741871"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892647"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Обзор Microsoft Sentinel" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 3. Описание возможностей обеспечения безопасности Microsoft Sentinel; Урок 3. Описание принципов встроенного управления угрозами в Microsoft Sentinel"
+---
+--->
+
 # <a name="lab-explore-microsoft-sentinel"></a>Практическое занятие. Обзор Microsoft Sentinel
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей решений безопасности Майкрософт
+- Модуль. Описание возможностей обеспечения безопасности Microsoft Sentinel
+- Урок. Описание принципов встроенного управления угрозами в Microsoft Sentinel
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 

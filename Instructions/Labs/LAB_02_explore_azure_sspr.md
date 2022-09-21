@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Изучение проверки подлинности Azure AD с самостоятельным сбросом пароля
-  module: 'Module 2 Lesson 2: Describe the capabilities of Microsoft Identity and access management solutions: Describe the different authentication methods of Azure AD'
-ms.openlocfilehash: f1bd0a494cc5486e13a03cf1e8829d38a28451ab
-ms.sourcegitcommit: 57e11f5a455d10c8ae3c95bb8a9487b10af3d315
+ms.openlocfilehash: b2e4d568e0d3b5d05cf4462183b977ba4e41c599
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/22/2022
-ms.locfileid: "146542655"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892177"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Изучение проверки подлинности Azure AD с самостоятельным сбросом пароля" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra; Модуль 2. Описание возможностей проверки подлинности Azure AD; Урок 4. Описание самостоятельного сброса пароля в Azure AD
+---
+--->
+
 # <a name="lab-explore-azure-ad-authentication-with-self-service-password-reset"></a>Практическое занятие. Изучение проверки подлинности Azure AD с самостоятельным сбросом пароля
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra
+- Модуль. Описание возможностей проверки подлинности Azure AD
+- Урок. Описание самостоятельного сброса пароля в Azure AD
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 

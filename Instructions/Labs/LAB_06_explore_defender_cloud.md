@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Обзор Microsoft Defender для облака
-  module: 'Module 3 Lesson 2: Describe the capabilities of Microsoft security solutions: Describe security management capabilities of Azure'
-ms.openlocfilehash: 29933f0f33320aba85a58af7f0cbff4d8b430247
-ms.sourcegitcommit: a69acc26ed3a09cea4a3af95719a6edc7fe2814d
+ms.openlocfilehash: eeee584ece9bb3ec4edcba5fa2e76a13dd9459c4
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "146650081"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892609"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Microsoft Defender для облака" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 2. Описание возможностей управления безопасностью Azure; Урок 3. Описание Microsoft Defender для облака"
+---
+--->
+
 # <a name="lab-explore-microsoft-defender-for-cloud"></a>Практическое занятие. Обзор Microsoft Defender для облака
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей решений безопасности Майкрософт
+- Модуль. Описание возможностей управления безопасностью Azure
+- Урок. Описание Microsoft Defender для облака
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 
