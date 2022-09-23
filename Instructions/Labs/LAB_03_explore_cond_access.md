@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Знакомство с управлением доступом в Azure AD с использованием условного доступа
-  module: 'Module 2 Lesson 3: Describe the capabilities of Microsoft Identity and access management solutions: Explore the access management capabilities of Azure AD'
-ms.openlocfilehash: 3fa6f805883950e85e28fc591c14664db3083bc4
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 5d7767e0187f043004b0c9d17e7cd1d1915613cc
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557281"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892165"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra Модуль. Описание возможностей управления доступом Azure AD Урок. Описание условного доступа в Azure AD
+---
+--->
+
 # <a name="lab-explore-access-management-in-azure-ad-with-conditional"></a>Практическое занятие. Изучение управления доступом в Azure AD с помощью условного доступа
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra
+- Модуль. Описание возможностей управления доступом Azure AD
+- Урок. Описание условного доступа в Azure AD
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 
@@ -28,7 +37,7 @@ ms.locfileid: "144557281"
     1. Введите пароль администратора, который должен быть предоставлен поставщиком размещения практических занятий. Выберите **Войти**.
     1. При появлении предложения не выходить из системы выберите **Да**.
 
-3. Выберите **Azure Active Directory**.  
+3. В левом верхнем углу экрана рядом с надписью "Microsoft Azure" щелкните значок "Показать меню портала" (три горизонтальные линии, которые также называются значком-гамбургером), а затем на левой панели навигации в разделе "Избранное" выберите Azure Active Directory. Если его нет в списке избранного, в поле поиска введите "Azure Active Directory", а затем в списке результатов выберите **Azure Active Directory**.
 
 4. На панели навигации слева выберите **Пользователи**.
 

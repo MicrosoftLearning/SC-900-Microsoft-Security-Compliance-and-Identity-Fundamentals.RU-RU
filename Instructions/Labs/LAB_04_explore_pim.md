@@ -1,15 +1,24 @@
 ---
-lab:
-  title: 'Изучение управления удостоверениями в Azure AD с управлением привилегированными пользователями. '
-  module: 'Module 2 Lesson 4: Describe the identity protection and governance capabilities of Azure AD: Describe Azure Identity Protection.'
-ms.openlocfilehash: bd50a2be33b8a9b6cf23831d9fce1c6761032484
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: e3ea450ebe43fa107a828166c32cfcac8d26e580
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557270"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892225"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Знакомство с управлением удостоверениями в Azure AD с использованием управления привилегированными пользователями". Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra; Модуль 4. Описание возможностей Azure AD по защите удостоверении и управлению ими; Урок 4. Описание возможностей управление привилегированными пользователями"
+---
+--->
+
 # <a name="lab-explore-identity-governance-in-azure-ad-with-privileged-identity-management"></a>Практическое занятие. Изучение управления удостоверениями в Azure AD с помощью управления привилегированными пользователями
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra
+- Модуль. Описание возможностей Azure AD по защите удостоверений и управлению ими
+- Урок. Описание возможностей управления привилегированными пользователями
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 

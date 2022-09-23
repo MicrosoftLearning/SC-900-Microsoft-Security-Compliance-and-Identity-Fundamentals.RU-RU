@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Обзор Microsoft Sentinel
-  module: 'Module 3 Lesson 3: Describe the capabilities of Microsoft security solutions: Describe security capabilities of Microsoft Sentinel'
-ms.openlocfilehash: 857d7f5ad5e0a9136d298c32cd47063a83e454e7
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 656e8003ac2a835d263b98cc25871f186ff2a0c8
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557162"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892647"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Обзор Microsoft Sentinel" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 3. Описание возможностей обеспечения безопасности Microsoft Sentinel; Урок 3. Описание принципов встроенного управления угрозами в Microsoft Sentinel"
+---
+--->
+
 # <a name="lab-explore-microsoft-sentinel"></a>Практическое занятие. Обзор Microsoft Sentinel
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей решений безопасности Майкрософт
+- Модуль. Описание возможностей обеспечения безопасности Microsoft Sentinel
+- Урок. Описание принципов встроенного управления угрозами в Microsoft Sentinel
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 
@@ -137,7 +146,7 @@ ms.locfileid: "144557162"
 
 4. Вверху по центру страницы выберите **Удалить группу ресурсов**.  Ознакомьтесь с предупреждением.  Введите имя группы ресурсов **SC900-ResourceGroup**, затем выберите **Удалить** в нижней части страницы.  На удаление группы ресурсов уйдет несколько минут.
 
-5. После проверки удаления группы ресурсов закройте страницу браузера.
+5. Закройте все открытые вкладки браузера.
 
 ### <a name="review"></a>Просмотр
 

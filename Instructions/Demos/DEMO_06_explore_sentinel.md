@@ -1,15 +1,24 @@
 ---
-Demo:
-  title: Microsoft Sentinel
-  module: 'Module 3 Lesson 3: Describe the capabilities of Microsoft security solutions: Describe security capabilities of Microsoft Sentinel'
-ms.openlocfilehash: 242d971510a428170a0d531b1ddcdf422ed4f9c9
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 8d58cd38338d81136cf0b9b474137354269507e6
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557330"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892393"
 ---
+<a name="---"></a><!---
+---
+Демонстрация. Заголовок: "Microsoft Sentinel" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 3. Описание возможностей обеспечения безопасности Microsoft Sentinel; Урок 3. Описание принципов встроенного управления угрозами в Microsoft Sentinel"
+---
+--->
+
 # <a name="demo-microsoft-sentinel"></a>Ролик. Microsoft Sentinel
+
+Эта демонстрация выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей решений безопасности Майкрософт
+- Модуль. Описание возможностей обеспечения безопасности Microsoft Sentinel
+- Урок. Описание принципов встроенного управления угрозами в Microsoft Sentinel
 
 ## <a name="demo-scenario"></a>Сценарий демонстрации
 
@@ -121,9 +130,9 @@ ms.locfileid: "144557330"
 
 1. В левом верхнем углу окна под синей панелью выберите **Главная**, чтобы вернуться на домашнюю страницу портала Azure.
 
-### <a name="task-6"></a>Задача 6.
+### <a name="post-course-delivery-tear-down"></a>Удаление курса после его завершения.
 
-Удаление курса после его завершения. Счета за Microsoft Sentinel выставляются на основе объема принятых на анализ в Microsoft Sentinel данных. Хотя объем данных, принятых в рамках этой демонстрации, является минимальным, рекомендуется удалить группу ресурсов Microsoft Sentinel по завершении изучения функциональных возможностей Microsoft Sentinel.
+Счета за Microsoft Sentinel выставляются на основе объема принятых на анализ в Microsoft Sentinel данных. Хотя объем данных, принятых в рамках этой демонстрации, является минимальным, рекомендуется удалить группу ресурсов Microsoft Sentinel по завершении курса.
 
 1. В левом верхнем углу страницы Microsoft Sentinel над надписью Microsoft Sentinel выберите **Все службы**.
 

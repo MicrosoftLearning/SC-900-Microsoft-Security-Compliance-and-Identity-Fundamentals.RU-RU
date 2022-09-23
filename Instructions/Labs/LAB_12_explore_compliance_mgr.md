@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Изучение портала соответствия требованиям Microsoft Purview и Диспетчера соответствия требованиям
-  module: 'Module 4 Lesson 2: Describe the capabilities of Microsoft compliance solutions: Describe the compliance management capabilities of Microsoft Purview'
-ms.openlocfilehash: 4745dddb860e82ddc05e7c88deb0e0644046e0b5
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: 8d3268c28c1dc2335f0554caf801abe11b6ae0d2
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557497"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892381"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Изучение портала соответствия требованиям Microsoft Purview и Диспетчера соответствия требованиям" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей соответствия требованиям Майкрософт; Модуль 2. Сведения о возможностях управления соответствием требованиям в Microsoft Purview; Урок 2. Описание портала соответствия требованиям Microsoft Purview"
+---
+--->
+
 # <a name="lab-explore-the-microsoft-purview-compliance-portal--compliance-manager"></a>Практическое занятие. Изучение портала соответствия требованиям Microsoft Purview и Диспетчера соответствия требованиям
+
+Эта демонстрация выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей соответствия требованиям Майкрософт
+- Модуль. Сведения о возможностях управления соответствием требованиям в Microsoft Purview
+- Урок. Описание портала соответствия требованиям Microsoft Purview
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 
@@ -69,7 +78,7 @@ ms.locfileid: "144557497"
 
 1. В прилагаемом списке шаблонов выберите **ISO/IEC27001:2013**. В правой верхней части страницы выберите **+ Создать оценку**.  Обратите внимание на левую часть экрана. Здесь приведены только два действия по созданию оценки на основе шаблона.  Выберите «Отмена» в нижней части страницы.
 
-1. Закройте открытые вкладки браузера.
+1. Закройте все открытые вкладки браузера.
 
 ### <a name="review"></a>Просмотр
 

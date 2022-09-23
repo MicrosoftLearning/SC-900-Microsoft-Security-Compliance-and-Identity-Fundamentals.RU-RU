@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Изучение проверки подлинности Azure AD с самостоятельным сбросом пароля
-  module: 'Module 2 Lesson 2: Describe the capabilities of Microsoft Identity and access management solutions: Describe the different authentication methods of Azure AD'
-ms.openlocfilehash: 6e9bcabdacc0e7c7f4c821c9a2fe018341055799
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: b2e4d568e0d3b5d05cf4462183b977ba4e41c599
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557474"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892177"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Изучение проверки подлинности Azure AD с самостоятельным сбросом пароля" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra; Модуль 2. Описание возможностей проверки подлинности Azure AD; Урок 4. Описание самостоятельного сброса пароля в Azure AD
+---
+--->
+
 # <a name="lab-explore-azure-ad-authentication-with-self-service-password-reset"></a>Практическое занятие. Изучение проверки подлинности Azure AD с самостоятельным сбросом пароля
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra
+- Модуль. Описание возможностей проверки подлинности Azure AD
+- Урок. Описание самостоятельного сброса пароля в Azure AD
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 
@@ -97,7 +106,7 @@ ms.locfileid: "144557474"
 2. В адресной строке введите **login.microsoftonline.com**.
 
 3. Выполните вход от имени Adele Vance,
-    1. В окне входа введите **AdedleV@WWLxZZZZZZ.onmicrosoft.com** (где ZZZZZZ — уникальный идентификатор клиента, предоставленный поставщиком размещения практических занятий), затем нажмите кнопку **Далее**.
+    1. В окне входа введите **AdeleV@WWLxZZZZZZ.onmicrosoft.com** (где ZZZZZZ — уникальный идентификатор клиента, предоставленный поставщиком размещения практических занятий), затем нажмите кнопку **Далее**.
     1. Введите пароль, который вы записали при выполнении предыдущей задачи. Выберите **Войти**.
     1. При появлении предложения не выходить из системы выберите **Да**
 

@@ -1,15 +1,24 @@
 ---
-lab:
-  title: Изучение портала Microsoft 365 Defender
-  module: 'Module 3 Lesson 4: Describe the capabilities of Microsoft security solutions: Describe threat protection with Microsoft 365 Defender'
-ms.openlocfilehash: dafab309af48617209f70b79ad5843d23eecd448
-ms.sourcegitcommit: 25998048c2e354ea23d6f497205e8a062d34ac80
+ms.openlocfilehash: c22aadb543f4501b74be9a6d12da3af3b63b632f
+ms.sourcegitcommit: 15658ca1c7bae8a4dbaa33ab6f897070bde521b9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/04/2022
-ms.locfileid: "144557150"
+ms.lasthandoff: 09/12/2022
+ms.locfileid: "147892681"
 ---
+<a name="---"></a><!---
+---
+Практическое занятие. Заголовок: "Изучение портала Microsoft 365 Defender" Модуль: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 4. Описание возможностей Microsoft 365 для защиты от угроз; Урок 7. Описание портала Microsoft 365 Defender"
+---
+--->
+
 # <a name="lab-explore-the-microsoft-365-defender-portal"></a>Практическое занятие. Изучение портала Microsoft 365 Defender
+
+Это практическое занятие выполняется на основе следующего содержимого Learn:
+
+- Схема обучения. Описание возможностей решений безопасности Майкрософт
+- Модуль. Описание возможностей Microsoft 365 для защиты от угроз
+- Урок. Описание портала Microsoft 365 Defender
 
 ## <a name="lab-scenario"></a>Сценарий практического занятия
 
@@ -65,7 +74,7 @@ ms.locfileid: "144557150"
 
 1. В верхней части страницы выберите **Метрики и тренды**.  Обратите внимание на доступную информацию.  В правом верхнем углу страницы выберите **значок календаря**.  Можно сузить представление до определенного диапазона дат.  Выбор **знака фильтра** позволит отфильтровать представление по удостоверению, устройства и приложениям.  Закройте окно и выберите **Главная** на панели навигации слева, чтобы вернуться на главную страницу Microsoft 365 Defender.
 
-1. Закройте окно браузера.
+1. Закройте все открытые вкладки браузера.
 
 ### <a name="review"></a>Просмотр
 
