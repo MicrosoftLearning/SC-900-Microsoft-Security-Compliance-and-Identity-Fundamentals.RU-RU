@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 24ec2a7dbaaefd938e78bdcb23489a1f5f10c95a
-ms.sourcegitcommit: 2db6494ae1734d32ac8d57874ef9f53e1fc9420c
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 10/28/2022
-ms.locfileid: "148118964"
----
 <a name="---"></a><!---
 ---
 Практическое занятие. Заголовок: "Изучение проверки подлинности Azure AD с самостоятельным сбросом пароля" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra; Модуль 2. Описание возможностей проверки подлинности Azure AD; Урок 4. Описание самостоятельного сброса пароля в Azure AD
