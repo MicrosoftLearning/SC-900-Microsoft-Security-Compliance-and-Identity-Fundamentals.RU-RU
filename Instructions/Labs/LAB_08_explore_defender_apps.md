@@ -1,8 +1,9 @@
-<a name="---"></a><!---
 ---
-Практическое занятие. Заголовок: "Обзор Microsoft Defender for Cloud Apps" Модуль: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 4. Описание возможностей Microsoft 365 для защиты от угроз; Урок 5. Описание Microsoft Defender for Cloud Apps"
+lab:
+    title: 'Практическое занятие. Обзор Microsoft Defender для облачных приложений'    
+    module: 'Модуль 4. Описание возможностей Microsoft 365 для защиты от угроз'
 ---
---->
+
 
 # <a name="lab-explore-microsoft-defender-for-cloud-apps"></a>Практическое занятие. Обзор Microsoft Defender для облачных приложений
 
