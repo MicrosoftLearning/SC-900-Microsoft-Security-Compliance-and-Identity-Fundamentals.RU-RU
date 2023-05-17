@@ -1,8 +1,8 @@
-<a name="---"></a><!---
 ---
-Практическое занятие. Заголовок: "Изучение Azure Active Directory" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra; Модуль 1. Описание основных служб и типов удостоверений Azure AD; Урок 4. Описание типов удостоверений Azure AD"
+lab:
+    title: 'Практическое занятие. Изучение Azure Active Directory'    
+    module: 'Модуль 1. Описание основных служб и типов удостоверений Azure AD'
 ---
---->
 
 # <a name="lab-explore-azure-active-directory"></a>Практическое занятие. Изучение Azure Active Directory
 
