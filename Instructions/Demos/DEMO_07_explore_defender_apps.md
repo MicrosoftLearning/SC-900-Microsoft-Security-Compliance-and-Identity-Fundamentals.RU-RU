@@ -1,8 +1,9 @@
-<a name="---"></a><!---
 ---
-Демонстрация. Заголовок: "Microsoft Defender for Cloud Apps" Модуль: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 4. Описание возможностей Microsoft 365 для защиты от угроз; Урок 5. Описание Microsoft Defender for Cloud Apps"
+demo:
+    title: 'Ролик. Microsoft Defender для облачных приложений'    
+    module: 'Модуль 4. Описание возможностей Microsoft 365 для защиты от угроз'
 ---
---->
+
 
 # <a name="demo-microsoft-defender-for-cloud-apps"></a>Ролик. Microsoft Defender для облачных приложений
 
