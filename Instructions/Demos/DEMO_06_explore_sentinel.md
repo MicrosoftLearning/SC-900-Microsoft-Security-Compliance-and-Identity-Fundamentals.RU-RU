@@ -1,8 +1,9 @@
-<a name="---"></a><!---
 ---
-Демонстрация. Заголовок: "Microsoft Sentinel" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 3. Описание возможностей обеспечения безопасности Microsoft Sentinel; Урок 3. Описание принципов встроенного управления угрозами в Microsoft Sentinel"
+demo:
+    title: 'Ролик. Microsoft Sentinel'    
+    module: 'Модуль 3. Описание возможностей обеспечения безопасности Microsoft Sentinel'
 ---
---->
+
 
 # <a name="demo-microsoft-sentinel"></a>Ролик. Microsoft Sentinel
 
