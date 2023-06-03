@@ -1,8 +1,8 @@
+<a name="---"></a><!---
 ---
-demo:
-    title: 'Ролик. Портал Microsoft 365 Defender'    
-    module: 'Модуль 4. Описание возможностей Microsoft 365 для защиты от угроз'
+Демонстрация. Заголовок: "Портал Microsoft 365 Defender" Модуль: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 4. Описание возможностей Microsoft 365 для защиты от угроз; Урок 7. Описание портала Microsoft 365 Defender"
 ---
+--->
 
 # <a name="demo-the-microsoft-365-defender-portal"></a>Ролик. Портал Microsoft 365 Defender
 
