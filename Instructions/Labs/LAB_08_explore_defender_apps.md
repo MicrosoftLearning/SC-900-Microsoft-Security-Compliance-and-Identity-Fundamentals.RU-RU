@@ -1,8 +1,8 @@
-<!---
 ---
-Практическое занятие. Заголовок: "Обзор Microsoft Defender for Cloud Apps" Модуль: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 4. Описание возможностей Microsoft 365 для защиты от угроз; Урок 5. Описание Microsoft Defender for Cloud Apps"
+lab:
+  title: Обзор Microsoft Defender for Cloud Apps
+  module: Describe the threat protection capabilities of Microsoft 365
 ---
---->
 
 # Задание: Обзор Microsoft Defender для облачных приложений
 

@@ -6,7 +6,7 @@ layout: home
 
 # Каталог содержимого
 
-Ниже перечислены гиперссылки на каждую из лабораторных работ и демонстраций.
+Гиперссылки на каждое упражнение лаборатории перечислены ниже.
 
 ## Тестовые службы
 
@@ -16,10 +16,15 @@ layout: home
 {% for activity in labs  %}| {{ activity.lab.module }} | [{{ activity.lab.title }}{% if activity.lab.type %} - {{ activity.lab.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
 
-## Демонстрационные материалы
+<!---
+
+
+## Demos
 
 {% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" %}
-| Модуль | Демонстрация |
+| Module | Demo |
 | --- | --- | 
 {% for activity in demos  %}| {{ activity.demo.module }} | [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
+
+--->
