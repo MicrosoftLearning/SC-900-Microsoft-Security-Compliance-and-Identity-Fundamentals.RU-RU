@@ -1,3 +1,9 @@
+---
+lab:
+  title: Самостоятельный сброс пароля Microsoft Entra
+  module: Describe the authentication capabilities of Microsoft Entra ID
+---
+
 <!---
 ---
 Практическое занятие. Заголовок: «Изучение проверки подлинности Azure AD с самостоятельным сбросом пароля» Схема обучения/Модуль/Урок: «Схема обучения. Описание возможностей Azure Active Directory (Azure AD), части Microsoft Entra. Модуль 2. Описание возможностей проверки подлинности Azure AD. Урок 4. Описание самостоятельного сброса пароля»
