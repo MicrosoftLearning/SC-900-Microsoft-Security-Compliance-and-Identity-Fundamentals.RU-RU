@@ -1,8 +1,8 @@
-<!---
 ---
-Практическое занятие. Заголовок: "Знакомство с Service Trust Portal" Схема обучения/Модуль/Урок: "Схема обучения. Описание возможностей управления соответствием требованиям Майкрософт; Модуль 1. Описание возможностей управления соответствием требованиям Майкрософт; Урок 2. Знакомство с порталом Service Trust Portal"
+lab:
+  title: Изучение портала Service Trust Portal
+  module: Describe the compliance management capabilities at Microsoft
 ---
---->
 
 # Задание: Знакомство с Service Trust Portal
 

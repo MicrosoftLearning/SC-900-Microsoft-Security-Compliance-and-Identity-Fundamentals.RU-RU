@@ -1,8 +1,8 @@
-<!---
 ---
-Практическое занятие: Схема обучения: "Описание возможностей Microsoft Entra". Модуль: "Описание возможностей управления доступом в Microsoft Entra ID". Урок. "Описание условного доступа"
+lab:
+  title: Условный доступ Microsoft Entra
+  module: Describe the access management capabilities of Microsoft Entra ID
 ---
---->
 
 # Практическое занятие: Условный доступ в Microsoft Entra
 

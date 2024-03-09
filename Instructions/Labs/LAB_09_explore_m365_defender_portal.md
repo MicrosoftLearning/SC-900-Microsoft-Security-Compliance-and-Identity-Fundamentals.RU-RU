@@ -1,8 +1,8 @@
-<!---
 ---
-Практическое занятие. Заголовок: "Изучение портала Microsoft 365 Defender" Модуль: "Схема обучения. Описание возможностей решений безопасности Майкрософт; Модуль 4. Описание возможностей Microsoft 365 для защиты от угроз; Урок 7. Описание портала Microsoft 365 Defender"
+lab:
+  title: "Изучение портала Microsoft\_365\_Defender"
+  module: Describe the threat protection capabilities of Microsoft 365
 ---
---->
 
 # Задание: Знакомство с порталом Microsoft 365 Defender
 

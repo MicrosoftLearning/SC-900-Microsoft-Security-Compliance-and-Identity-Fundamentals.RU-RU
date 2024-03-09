@@ -1,8 +1,8 @@
-<!---
 ---
-Практическое занятие. Заголовок: "Настройка"
+lab:
+  title: Организация занятия
+  module: Setup your Microsoft 365 lab tenant (not associated with a Learn module)
 ---
---->
 
 # Практическое занятие: Настройка
 
