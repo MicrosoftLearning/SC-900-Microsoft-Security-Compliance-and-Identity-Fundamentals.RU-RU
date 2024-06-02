@@ -1,6 +1,6 @@
 ---
 lab:
-  title: Изучение управления привилегированными удостоверениями
+  title: Обзор управления привилегированными пользователями
   module: Describe the identity protection and governance capabilities of Microsoft Entra
 ---
 
