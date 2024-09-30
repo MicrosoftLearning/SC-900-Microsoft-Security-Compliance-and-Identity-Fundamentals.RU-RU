@@ -1,16 +1,16 @@
 ---
 lab:
   title: "Изучение управления внутренними рисками в Microsoft\_Purview"
-  module: Describe the insider risk capabilities in Microsoft Purview
+  module: Describe the data security solutions of Microsoft Purview
 ---
 
 # Практическое занятие. Изучение управления внутренними рисками в Microsoft Purview
 
 Это практическое занятие выполняется на основе следующего содержимого Learn:
 
-- Схема обучения. Описание возможностей соответствия требованиям Майкрософт
-- Модуль. Описание возможностей управления внутренними рисками в Microsoft Purview
-- Урок. Описание управления внутренними рисками
+- Путь обучения. Описание возможностей Microsoft Priva и Microsoft Purview
+- Модуль. Описание решений по обеспечению безопасности данных Microsoft Purview
+- Урок. Описание управления внутренними рисками в Microsoft Purview
 
 ## Сценарий практической работы
 

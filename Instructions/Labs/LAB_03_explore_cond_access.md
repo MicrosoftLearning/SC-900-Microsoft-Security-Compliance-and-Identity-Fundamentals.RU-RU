@@ -1,7 +1,7 @@
 ---
 lab:
   title: Условный доступ Microsoft Entra
-  module: Describe the access management capabilities of Microsoft Entra ID
+  module: Describe the access management capabilities of Microsoft Entra
 ---
 
 # Практическое занятие: Условный доступ в Microsoft Entra
@@ -9,7 +9,7 @@ lab:
 Это практическое занятие выполняется на основе следующего содержимого Learn:
 
 - Схема обучения. Описание возможностей Microsoft Entra
-- Модуль. Описание возможностей управления доступом Microsoft Entra ID
+- Модуль. Описание возможностей управления доступом в Microsoft Entra
 - Урок. Описание условного доступа
 
 ## Сценарий практической работы
