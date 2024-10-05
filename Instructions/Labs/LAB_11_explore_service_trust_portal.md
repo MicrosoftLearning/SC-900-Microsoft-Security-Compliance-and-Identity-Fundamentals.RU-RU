@@ -1,15 +1,15 @@
 ---
 lab:
   title: Изучение портала Service Trust Portal
-  module: Describe the compliance management capabilities at Microsoft
+  module: Describe Microsoft’s Service Trust portal and privacy capabilities
 ---
 
 # Задание: Знакомство с Service Trust Portal
 
 Это практическое занятие выполняется на основе следующего содержимого Learn:
 
-- Схема обучения. Описание возможностей соответствия требованиям Майкрософт
-- Модуль. Описание возможностей управления соответствием в Майкрософт
+- Путь обучения. Описание возможностей Microsoft Priva и Microsoft Purview
+- Модуль. Описание возможностей портала Microsoft Service Trust Portal и возможностей конфиденциальности
 - Урок. Знакомство с Service Trust Portal
 
 ## Сценарий практической работы
