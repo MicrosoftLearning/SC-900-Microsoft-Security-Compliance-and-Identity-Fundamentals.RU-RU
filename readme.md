@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # SC-900: Microsoft Security, Compliance, and Identity Fundamentals
 
 В этом архиве содержатся демонстрационные сценарии и инструкции к практическому заданию **SC-900T00. Основы безопасности, соответствие требованиям и идентификации Майкрософт**.  Использование как сценариев демонстраций, так и практических заданий предполагает наличие доступа к заранее настроенному клиенту WWL M365 Enterprise 2019 SPE_E5, доступному через полномочного поставщика услуг размещения (ALH), и использование подписки Azure, предоставленной ALH. Некоторые демонстрационные сценарии и инструкции к заданиям могут выполняться на собственном клиенте Microsoft 365 пользователя, имеющего подписку Azure, однако это не всегда гарантируется, и некоторые функции могут быть недоступны в личной подписке пользователя.
